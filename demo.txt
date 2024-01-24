@@ -1,2 +1,3 @@
 this a full stack course
 Uma
+this is a day 2 of the session
